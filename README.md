@@ -1,2 +1,6 @@
 # JAVA-PROGRAMS-PROJECT
-This repository holds the practised java programs and some projects.
+Welcome to my Java world!
+
+🎯 This repo stores programs and projects build using java.
+
+🏋️ This repo allows us to understands some imporatant concepts in Oops and collections.
